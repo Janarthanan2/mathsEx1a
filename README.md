@@ -26,9 +26,9 @@ Print the solution
 
 ## Program:
 
-#Program to circulate N values.
-#Developed by: Janarthanan V K
-#RegisterNumber: 212222230051
+    #Program to circulate N values.
+    #Developed by: Janarthanan V K
+    #RegisterNumber: 212222230051
 
     def circulate():
         circul=l[n:]+l[:n]
