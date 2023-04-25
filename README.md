@@ -30,11 +30,11 @@ Print the solution
 #Developed by: Janarthanan V K
 #RegisterNumber: 212222230051
 
-def circulate():
-    circul=l[n:]+l[:n]
-    print("After circulating the values are:",circul)
-l=eval(input())
-n=eval(input())
+    def circulate():
+        circul=l[n:]+l[:n]
+        print("After circulating the values are:",circul)
+    l=eval(input())
+    n=eval(input())
 
 ## Output:
 ![2](https://user-images.githubusercontent.com/119393515/234285038-e5d4686f-7c4b-4a7d-b6c5-432e6bd70ef6.png)
