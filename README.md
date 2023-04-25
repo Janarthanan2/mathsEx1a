@@ -27,19 +27,13 @@ Print the solution
 ## Program:
 
 #Program to circulate N values.
-
 #Developed by: Janarthanan V K
-
 #RegisterNumber: 212222230051
 
 def circulate():
-
     circul=l[n:]+l[:n]
-
     print("After circulating the values are:",circul)
-
 l=eval(input())
-
 n=eval(input())
 
 ## Output:
