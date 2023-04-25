@@ -33,8 +33,9 @@ def circulate():
     print("After circulating the values are:",circul)
 l=eval(input())
 n=eval(input())
+
 ## Output:
-![Screenshot 2023-04-25 142440](https://user-images.githubusercontent.com/119393515/234230082-44847916-c8fb-4123-adea-0f0cfb6e425f.png)
+![2](https://user-images.githubusercontent.com/119393515/234285038-e5d4686f-7c4b-4a7d-b6c5-432e6bd70ef6.png)
 
 ## Result:
 The program for circulating the values of N variables is successfully executed
